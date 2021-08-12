@@ -1,7 +1,7 @@
 ### *Hey, I'm Adil Khatri* 👋
 
-- 🔭 I’m a Full-Stack Developer from India.
-- 🌱 I’m currently studying my Bachelor's in Computer Engineering.
+- 👨‍💻 I’m a Full-Stack Developer from India 🇮🇳
+- 🔭 I’m currently studying my Bachelor's in Computer Engineering.
 - 👯 I’m looking to collaborate with different developers.
 
 <!--
