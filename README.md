@@ -1,9 +1,10 @@
 ### *Hey, I'm Adil Khatri* 👋
 
-- 👨‍💻 I’m a Full-Stack Developer from India 🇮🇳
+- 👨‍💻 I’m a Intermediate Full Stack Web Developer and learning Mobile App Development.
 - 🔭 I’m currently studying my Bachelor's in Computer Engineering.
 - 👯 I’m looking to collaborate with different developers.
 
+<img src="https://github-readme-stats.vercel.app/api?username=adil-khatri&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
