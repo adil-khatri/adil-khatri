@@ -4,7 +4,7 @@
 - 🔭 I’m currently studying my Bachelor's in Computer Engineering.
 - 👯 I’m looking to collaborate with different developers.
 <br/>
-<br/>
+
 
 ## Languages And Skills:
 
@@ -30,6 +30,8 @@
 
 <br/>
 <br/>
+
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=adil-khatri&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
