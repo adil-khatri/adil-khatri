@@ -47,3 +47,14 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Connect with me:
+
+
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/adil_khatri_2346/)
+
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:adilaqzma@gmail.com)
+
+<br />  
+<br />
+
