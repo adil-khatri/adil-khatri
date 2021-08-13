@@ -1,10 +1,9 @@
-### *Hey, I'm Adil Khatri* 👋
+### <h1>Hey, I'm Adil Khatri👋</h1>
 
 - 👨‍💻 I’m a Intermediate Full Stack Web Developer and learning Mobile App Development.
 - 🔭 I’m currently studying my Bachelor's in Computer Engineering.
 - 👯 I’m looking to collaborate with different developers.
 <br/>
-
 
 ## Languages And Skills:
 
@@ -15,8 +14,6 @@
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/>
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
-
-<img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"/>
 
 <img align="left" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/>
 
@@ -31,8 +28,17 @@
 <br/>
 <br/>
 
+## Tools:
 
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
+<img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
+
+<img align="left" width="30px" src="https://img.icons8.com/color/48/000000/github--v1.png"/>
+<br />
+<br/>
+
+<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=adil-khatri&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
 - 🤔 I’m looking for help with ...
