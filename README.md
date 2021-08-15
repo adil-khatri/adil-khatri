@@ -6,6 +6,9 @@
  
 <br/>
 
+[![Website](https://img.shields.io/website?label=adil-khatri&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://adilkhatri.netlify.app/)
+
+
 ## Languages And Skills:
 
 <img align="left" width="28px" src="https://img.icons8.com/color/48/000000/python.png"/>
