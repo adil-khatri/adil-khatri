@@ -43,7 +43,7 @@
 <br/>
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=adil-khatri&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=adil-khatri&theme=gruvbox_light&show_icons=true">
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
